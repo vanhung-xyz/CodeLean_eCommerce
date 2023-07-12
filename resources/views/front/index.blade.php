@@ -39,12 +39,12 @@
                 <div class="ht-left">
                     <div class="mail-service">
                         <i class="fa fa-envelope">
-                            Ngocquy2421nd@gmail.com
+                            Nguyenvanhung@gmail.com
                         </i>
                     </div>
                     <div class="phone-service">
                         <i class="fa fa-phone">
-                            +84 386169003
+                            +84 89221103
                         </i>
                     </div>
                 </div>
